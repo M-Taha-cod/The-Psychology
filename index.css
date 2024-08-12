@@ -890,8 +890,10 @@ span{
         font-size: 15px;
     }
 
-    script{
-    margin-left: 10px;
+/*    ads part */
+
+    .ads-div{
+    margin-left: 15px;
 }
 
     header h1{
