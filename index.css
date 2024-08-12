@@ -878,6 +878,12 @@ span{
     border-radius: 10px;
 }
 
+/*    ads part */
+
+.ads-div{
+    margin-left: 15px;
+}
+
 @media (max-width:600px) {
     .back-to-topic{
         height: 40px;
@@ -896,8 +902,4 @@ span{
     }
 }
 
-/*    ads part */
 
-    .ads-div{
-    margin-left: 15px;
-}
