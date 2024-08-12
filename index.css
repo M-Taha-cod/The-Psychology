@@ -890,13 +890,14 @@ span{
         font-size: 15px;
     }
 
-/*    ads part */
-
-    .ads-div{
-    margin-left: 15px;
-}
 
     header h1{
         font-size: 20px;
     }
+}
+
+/*    ads part */
+
+    .ads-div{
+    margin-left: 15px;
 }
